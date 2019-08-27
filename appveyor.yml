@@ -28,4 +28,4 @@ build:
 
 
 build_script:
-  - premake5 %TOOLSET%
+  - GenerateProjects.bat
